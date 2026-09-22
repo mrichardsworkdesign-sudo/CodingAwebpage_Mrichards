@@ -1,0 +1,418 @@
+@charset "UTF-8";
+body {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+
+    margin-left: px;
+    margin-right: px;
+}
+
+p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-size: 20px;
+	color:white
+}
+h1, h2, h3 {
+    font-family: "Titan One", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+h4 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+	
+.Typeography {
+    font-size: 80px;
+    text-shadow: 0px 11px 0px #090538;
+    text-align: center;
+    padding-top: 80px;
+    line-height: 22px;
+    background-color: #8C8AB3;
+    background-size: 42px 23px;
+    background-position: 11% 6%;
+    -webkit-box-shadow: 0px 74px 52px -8px #010256;
+    box-shadow: 0px 74px 52px -8px #010256;
+    border-color: #F6F0F1;
+    background-clip: border-box;
+    background-attachment: scroll;
+    background-image: -webkit-linear-gradient(181deg,rgba(20,18,89,1.00) 0.06%,rgba(1,6,38,1.00) 100%);
+    background-image: -moz-linear-gradient(181deg,rgba(20,18,89,1.00) 0.06%,rgba(1,6,38,1.00) 100%);
+    background-image: -o-linear-gradient(181deg,rgba(20,18,89,1.00) 0.06%,rgba(1,6,38,1.00) 100%);
+    background-image: linear-gradient(269deg,rgba(20,18,89,1.00) 0.06%,rgba(1,6,38,1.00) 100%);
+}
+
+
+.HeaderTitle {
+    background-color: #141259;
+    -webkit-box-shadow: 0px 27px 48px 106px #141359;
+    box-shadow: 0px 27px 48px 106px #141359;
+    background-attachment: fixed;
+    background-size: 29px 62px;
+    background-position: 25% 0%;
+    background-image: url(url);
+    border-width: thick;
+    font-size: 73px;
+    text-decoration: overline;
+    text-shadow: 1px 23px 16px #030721;
+}
+.Colorhead {
+    -webkit-box-shadow: 0px 136px 54px 43px #141259;
+    box-shadow: 0px 136px 54px 43px #141259;
+    font-size: 80px;
+    text-shadow: 0px 16px 9px #04052E;
+    line-height: 52px;
+    text-decoration: none;
+    text-indent: 0px;
+    color: #FFFDFD;
+    text-align: center;
+    background-image: -webkit-linear-gradient(181deg,rgba(20,18,89,1.00) 0%,rgba(1,6,38,1.00) 100%);
+    background-image: -moz-linear-gradient(181deg,rgba(20,18,89,1.00) 0%,rgba(1,6,38,1.00) 100%);
+    background-image: -o-linear-gradient(181deg,rgba(20,18,89,1.00) 0%,rgba(1,6,38,1.00) 100%);
+    background-image: linear-gradient(269deg,rgba(20,18,89,1.00) 0%,rgba(1,6,38,1.00) 100%);
+    background-size: 47px 0px;
+    width: 46px;
+}
+.hero {
+    text-align: left;
+    font-family: "Titan One", sans-serif;
+}
+.Col {
+
+    background-color: #010626;
+    color: #FFFFFF;
+}
+
+
+
+	
+
+.image {
+    -webkit-box-shadow: 0 0;
+    box-shadow: 0 0;
+    text-align: center;
+}
+.creds {
+    background-color: #010626;
+    -webkit-box-shadow: 0px 8px 28px 18px #010626;
+    box-shadow: 0px 8px 28px 18px #010626;
+    line-height: 250px;
+    font-size: 50px;
+    text-align: left;
+}
+.li {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-indent: 23px;
+}
+.credi {
+	
+	
+	
+	
+}
+.lastline {
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+}
+.button {
+	 background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+	border-radius:100px	
+}
+.Homebut {
+    background-color: #F2CD5C;
+    border: none;
+    color: #010626;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 34px;
+    cursor: pointer;
+    border-radius: 100px;
+    margin-left: 38px;
+}
+.Homebut:hover {
+	 background-color: #D94199;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 38px;
+  cursor: pointer;
+	border-radius:100px	
+}
+
+
+.button:hover {
+	 background-color: #D94199;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+	border-radius:100px	
+}
+.linkscol:hover {
+	 background-color: #010626;
+  border: none;
+  color: #D94179;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  cursor: pointer;
+	
+}
+.stefan:hover {
+	background-color: #141259;
+  border: none;
+  color: #D94179;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  cursor: pointer;
+	
+	
+	
+	
+}
+.source:hover {
+	 background-color: #141259;
+  border: none;
+  color: #D94179;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  cursor: pointer;
+	
+	
+	
+	
+}
+
+
+
+
+
+.Categoriesoftype {
+    text-align: left;
+    line-height: 223px;
+    height: 115px;
+    font-size: 36px;
+    -webkit-box-shadow: 0 0px;
+    box-shadow: 0 0px;
+    text-shadow: 0px 7px #010626;
+    padding-left: 525px;
+}
+.pairingoftype {
+    text-align: left;
+    font-size: 36px;
+    height: 24px;
+    margin-left: 615px;
+}
+.button2 {
+    background-color: #141259;
+    border: none;
+    color: white;
+    padding: 20px 60px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.button2:hover {
+    background-color: #D94179;
+    border: none;
+    color: white;
+    padding: 20px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    cursor: pointer;
+    font-family: "Titan One", sans-serif;
+}
+.nav {
+    text-align: center;
+    background-color: #141259;
+}
+.colortheory {
+    text-align: left;
+    line-height: 202px;
+    height: 129px;
+    font-size: 38px;
+    padding-left: 446px;
+    text-shadow: -2px 5px #010626;
+}
+.psychology {
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    font-size: 36px;
+    margin-top: 62px;
+    height: 21px;
+    text-shadow: 0px 5px #010626;
+}
+.Floater {
+    float: left;
+    margin-right: 100px;
+}
+.quote {
+    padding-top: 0px;
+    display: inline-block;
+    width: 218px;
+    color: #FFFFFF;
+}
+.anothertip {
+    height: 97px;
+    margin-bottom: 12px;
+    padding-top: 38px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.inorder {
+    height: 83px;
+}
+.thiscategory {
+    height: 86px;
+}
+.oneofthese {
+    height: 89px;
+}
+.phtoback {
+    text-align: center;
+    padding-left: 315px;
+}
+.seriftype {
+    height: 6px;
+}
+.aserif {
+    height: 78px;
+}
+.sansserif {
+    height: 4px;
+    font-size: 24px;
+}
+.decorative {
+    height: 7px;
+}
+.sansseriftype {
+    height: 58px;
+}
+.thecolorwheel {
+    -webkit-box-shadow: -10px 11px 47px #010626;
+    box-shadow: -10px 11px 47px #010626;
+    margin-bottom: 23px;
+}
+.colorschemes {
+    margin-top: 35px;
+    font-size: 24px;
+    height: 45px;
+}
+.acolorschm {
+    margin-top: -31px;
+    height: 82px;
+}
+.monochrohd {
+    height: 10px;
+}
+.analohd {
+    height: 13px;
+}
+.complehd {
+    height: 12px;
+}
+.block {
+    color: #010626;
+}
+.lastcreds {
+    margin-top: 129px;
+    height: 110px;
+    padding-top: 9px;
+}
+.typesection {
+}
+.typesections {
+    background-color: #141259;
+    background-origin: border-box;
+    background-clip: padding-box;
+}
+.colsection {
+    background-color: #141259;
+}
+.heroimge {
+    margin-bottom: -72px;
+}
+.condensedimg {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.psec {
+    margin-left: 0px;
+    padding-left: 38px;
+    padding-right: 32px;
+}
+.csex {
+}
+.csec {
+    margin-left: 38px;
+    margin-right: 38px;
+}
+.dsec {
+    margin-left: 38px;
+    margin-right: 38px;
+}
+.source {
+	color: #F2CD5C
+}
+.linkscol {
+	color: #F2CD5c
+}
+.stefan {
+	color: #f2CD56
+}
+.Homebut {
+	color: #010626
+}
+#hero {
+}
+.hmtxt {
+	color: #010626
+}
+.hmtxt:hover{
+	color: white
+}
+.colorthe {
+    background-color: #141259;
+}
+.bar {
+    margin-top: -1px;
+}
+.sidei {
+    text-align: center;
+    margin-left: 222px;
+}
+.theschemes {
+    -webkit-box-shadow: -10px 11px 47px #010626;
+    box-shadow: -10px 11px 47px #010626;
+}
+.ftsec {
+    background-color: #141259;
+}
